@@ -9,8 +9,6 @@ class Dog
  class Dog 
    dog = Dog.new("Fido", "pug")
  end 
-  Fido.breed = "Mutt"
- 
-end 
+
    
   
