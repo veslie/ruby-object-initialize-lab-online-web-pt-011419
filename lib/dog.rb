@@ -9,7 +9,7 @@ class Dog
  class Dog 
    dog = Dog.new("Fido", "pug")
  end 
-  fido.breed = "Mutt"
+  Fido.breed = "Mutt"
  
 end 
    
