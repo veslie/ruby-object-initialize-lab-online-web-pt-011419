@@ -10,6 +10,6 @@ class Dog
    dog = Dog.new("Fido", "pug")
   fido.breed = "Mutt"
  end
-
+end 
    
   
